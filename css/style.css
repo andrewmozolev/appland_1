@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #fff;
+  background-color: #98d361;
+}
+.header {
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+.header__title {
+  margin-bottom: 20px;
+  font-size: 34px;
+}
+.main__icon {
+  margin-bottom: 60px;
+}
+.main__title {
+  margin-bottom: 30px;
+}
